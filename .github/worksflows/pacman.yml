@@ -1,11 +1,9 @@
 name: Generate arcade animation
 
 on:
-  schedule: # Jalankan otomatis setiap 12 jam
+  schedule:
     - cron: "0 */12 * * *"
-
-  workflow_dispatch: # Memungkinkan tombol 'Run workflow' manual di tab Actions
-
+  workflow_dispatch:
   push:
     branches:
       - main
