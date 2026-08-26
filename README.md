@@ -105,8 +105,6 @@ Beberapa framework, teknologi, dan bahasa pemrograman yang sering saya gunakan:
 
 Visualisasi kontribusi repositori GitHub saya dalam bentuk animasi game:
 
-### 🐍 Snake Animation Contribution Graph
-<img data-importer="snake" src="https://raw.githubusercontent.com/fabiankhusyaeri-hub/fabiankhusyaeri-hub/snake-output/snake.svg" alt="Snake animation" width="100%" />
 
 ### 🕹️ Pacman Contribution Graph
 <picture data-importer="pacman">
