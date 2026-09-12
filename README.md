@@ -57,10 +57,7 @@ Beberapa framework, teknologi, dan bahasa pemrograman yang sering saya gunakan:
 
 <!-- ===================================================
      AKTIVITAS KONTRIBUSI (ANIMASI GAME)
-     =================================================== -->
-## 🎮 Aktivitas Kontribusi
 
-Visualisasi kontribusi repositori GitHub saya dalam bentuk animasi game:
 
 
 ### 🕹️ Pacman Contribution Graph
