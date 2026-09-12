@@ -1,23 +1,11 @@
-<!-- ===================================================
-     HEADER SECTION (BANNER & LOGO)
-     =================================================== -->
-<div align="center">
-
-  <!-- BANNER HEADER -->
-  <img src="img/github-header-banner.png" width="100%" alt="Header Banner" />
-  
-  <br/>
-  <br/>
 
   <!-- JUDUL UTAMA & TAGLINE -->
-  <h1>Halo 👋, Saya M. Fabian Khusyaeri</h1>
-  <h3>🚀 Software Developer | Flutter & Laravel Specialist | SMK TI Garuda Nusantara Student </h3>
+  <h1>Halo , Saya M. Fabian Khusyaeri</h1>
+  <h3> Software Developer | Flutter & Laravel | SMK TI Garuda Nusantara Student </h3>
 
   <!-- BADGES SOSIAL MEDIA (BISA DIKLIK) -->
   <p align="center">
-    <a href="https://linkedin.com/in/fabiankhusyaeri" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
+    
     <a href="https://instagram.com/fabiankhusyaeri" target="_blank">
       <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
@@ -32,17 +20,6 @@
 
 <hr/>
 
-<!-- ===================================================
-     TENTANG SAYA
-     =================================================== -->
-## 🧑‍💻 Tentang Saya
-
-Saya adalah seorang siswa vokasi dan *software developer* dari **Bandung, Indonesia 🇮🇩**. Saya fokus pada pengembangan aplikasi *mobile* menggunakan **Flutter**, serta pembuatan aplikasi web modern berbasis **Laravel**.
-
-- 🌱 Saya sedang mendalami **Flutter, Dart, Laravel, Firebase, & AI Integration**
-- 🛠️ Pengalaman mengerjakan proyek aplikasi berbasis **Flutter, Laravel, PHP, dan Java NetBeans**
-- 💬 Tanya saya tentang **Flutter, Laravel, PHP, Setup Peripheral, atau Rubik's Cube**
-- ⚡ Fakta menyenangkan: Suka dengan setup keyboard kustom, *tactical/simulation gaming*, dan memecahkan Rubik's Cube.
 
 <hr/>
 
@@ -69,7 +46,6 @@ Beberapa framework, teknologi, dan bahasa pemrograman yang sering saya gunakan:
 <p align="left">
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud SQL"/>
 </p>
 
 ### 🔧 Tools & Workflow
@@ -82,19 +58,6 @@ Beberapa framework, teknologi, dan bahasa pemrograman yang sering saya gunakan:
 
 <hr/>
 
-<!-- ===================================================
-     STATISTIK GITHUB (DINAMIS & OTOMATIS UPDATE)
-     =================================================== -->
-## 📊 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiankhusyaeri-hub&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub Fabian" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiankhusyaeri-hub&layout=compact&theme=tokyonight" alt="Bahasa Pemrograman Teratas" height="192px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabiankhusyaeri-hub&theme=tokyonight" alt="GitHub Streak Fabian" />
-</p>
 
 <hr/>
 
