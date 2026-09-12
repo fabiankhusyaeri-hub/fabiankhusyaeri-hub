@@ -6,12 +6,6 @@
   <!-- BADGES SOSIAL MEDIA (BISA DIKLIK) -->
   <p align="center">
     
-    <a href="https://instagram.com/fabiankhusyaeri" target="_blank">
-      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="mailto:fabiankhusyaeri@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
   </p>
 
   <!-- PENGUNJUNG REPO (DINAMIS) -->
